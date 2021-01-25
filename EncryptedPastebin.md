@@ -22,7 +22,9 @@ Pienellä googlettelulla törmäsin alla olevaan kirjoitukseen:
 https://blog.gdssecurity.com/labs/2010/9/14/automated-padding-oracle-attacks-with-padbuster.html
 
 Eli ei muuta kuin Padbusteria testamaan
+
 Syntaksi padbusteriin pienen tutkiskelun jälkeen oli:
+
 padbuster *url-konvertoiduilla merkeillä* *pelkkä cipheri konvertoiduilla merkeillä* 16 -encoding 0
 
 Jossa 16 on blokin pituus ja -encoding 0 tarkoittaa base64:sta
