@@ -2,7 +2,7 @@
 
 Tehtävä alkaa web-lomakkeesta, johon voi syöttää otsikkokenttään otsikon ja tekstikenttään jotain tekstiä.
 Testimielessä laitoin otsikkokenttään oman nimeni ja nappasin Post-nappulaa.
-Selain menee sivulle, jossa url-kentässä on enkootattuna jotain tietoa.
+Selain menee sivulle, jossa url-kentässä on enkoodattuna jotain tietoa.
 Omalla kohdallani seuraavanlaita
 x0EzJ3lR08HFUMaYrc8J5NcLKMbxlmA5sFUmbnh3RafvOIO75GWGCnrSjMzaUM86OwOsEMMdSVYTgjig7SS1OE4qM02NsbKc36NDn0!dm6FbWACL!5uBe12cgTipkh2USNFbiAvmvSebjUr3ESE2IRNkbNYYUftbnrAP0e19XvBImPvGd9ZqWGdEdaSs7iQC7U3x!34kAAylj1Yqyr8vlw~~
 
