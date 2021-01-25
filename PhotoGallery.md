@@ -2,7 +2,7 @@
 Kohteena on jonkinlainen kuvagalleria sivu. Heti alkuun ottaa silmään, että yksi sivun kuvista ei ole latautunut.  
 Kurkasin hiukan lähdekoodia ja sieltä huomasin, että kuvat ladataan "fetch?id=1" urlilla.  
 Mielenkiinnosta koitin mitä noista aukeaa ja id=1 ja id=2 availevat noita kuvia, mutta id=3 tuottaa virheen.
-Ilmeisesti siis on kyse jostain tietokannasta niin, ei muuta kuin sqlmap ajamaan http://url/fetch?id=1 -urliin.  
+Ilmeisesti siis on kyse jostain tietokannasta niin, ei muuta kuin sqlmap ajamaan http://url/fetch?id=1 -urliin.  \
 Löydökseksenä id on haavoittuvainen SQL-injektiolle.  
 Vinkeistä löytyy "This application runs on the uwsgi-nginx-flask-docker image". 
 https://github.com/tiangolo/uwsgi-nginx-flask-docker. linkistä löytyy dokumentaatio tuolle dockerille. 
