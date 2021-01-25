@@ -1,4 +1,4 @@
-#Encrypted Pastebin
+# Encrypted Pastebin
 
 Tehtävä alkaa web-lomakkeesta, johon voi syöttää otsikkokenttään otsikon ja tekstikenttään jotain tekstiä.
 Testimielessä laitoin otsikkokenttään oman nimeni ja nappasin Post-nappulaa.
